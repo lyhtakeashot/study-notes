@@ -1,0 +1,11 @@
+# Obsidian 临时文件 / 系统垃圾
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
